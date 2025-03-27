@@ -1,32 +1,6 @@
 # Akribi Branding
 
-## 🖼️ Logo
-
-The logo is available in several different formats in `logo`.
-
-### Main logo
-
-#### SVG
-
 <img src="logo/akribi_color.svg" alt="Logo" width="200"/>
-<img src="logo/akribi_black.svg" alt="Logo" width="200"/>
-<img src="logo/akribi_white.svg" alt="Logo" width="200"/>
-
-### PNG
-
-<img src="logo/akribi_color.png" alt="Logo" width="200"/>
-<img src="logo/akribi_black.png" alt="Logo" width="200"/>
-<img src="logo/akribi_white.png" alt="Logo" width="200"/>
-
-### Square logo
-
-#### SVG
-
-<img src="logo/akribi_square_color.svg" alt="Logo" width="200"/>
-
-#### PNG
-
-<img src="logo/akribi_square_color.png" alt="Logo" width="200"/>
 
 ## 🎨 Color Palette
 
@@ -54,3 +28,31 @@ The logo is available in several different formats in `logo`.
 | Headings (Light) | Roboto          | Light (300)      | Page titles, large headers          |
 | Headings (Dark)  | Roboto          | Bold (700)       | Emphasis headings, section titles   |
 | Body Text        | Varela Round    | Regular (400)    | Paragraphs, UI labels, descriptions |
+
+## 🖼️ Logo
+
+The logo is available in several different formats in `logo`.
+
+### Main logo
+
+#### SVG
+
+<img src="logo/akribi_color.svg" alt="Logo" width="200"/>
+<img src="logo/akribi_black.svg" alt="Logo" width="200"/>
+<img src="logo/akribi_white.svg" alt="Logo" width="200"/>
+
+### PNG
+
+<img src="logo/akribi_color.png" alt="Logo" width="200"/>
+<img src="logo/akribi_black.png" alt="Logo" width="200"/>
+<img src="logo/akribi_white.png" alt="Logo" width="200"/>
+
+### Square logo
+
+#### SVG
+
+<img src="logo/akribi_square_color.svg" alt="Logo" width="200"/>
+
+#### PNG
+
+<img src="logo/akribi_square_color.png" alt="Logo" width="200"/>
