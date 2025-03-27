@@ -13,11 +13,11 @@
     <td style="background-color:#FF9C5A; width:100px; height:100px;"></td>
   </tr>
   <tr>
-    <td><b>PMS:</b> 297C<br><b>CMYK:</b> 52.3.4.0<br><b>RGB:</b> 109.198.231<br><b>WEBB:</b> #6DC6E7</td>
-    <td><b>PMS:</b> 647C<br><b>CMYK:</b> 98.71.21.5<br><b>RGB:</b> 0.85.139<br><b>WEBB:</b> #00558B</td>
-    <td><b>PMS:</b> 178C<br><b>CMYK:</b> 0.80.60.0<br><b>RGB:</b> 255.89.89<br><b>WEBB:</b> #FF5959</td>
-    <td><b>PMS:</b> 1355C<br><b>CMYK:</b> 0.24.66.0<br><b>RGB:</b> 255.197.108<br><b>WEBB:</b> #FFC56C</td>
-    <td><b>PMS:</b> 157C<br><b>CMYK:</b> 0.47.70.0<br><b>RGB:</b> 255.156.90<br><b>WEBB:</b> #FF9C5A</td>
+    <td valign="top"><b>PMS:</b> 297C<br><b>CMYK:</b> 52.3.4.0<br><b>RGB:</b> 109.198.231<br><b>HEX:</b> #6DC6E7</td>
+    <td valign="top"><b>PMS:</b> 647C<br><b>CMYK:</b> 98.71.21.5<br><b>RGB:</b> 0.85.139<br><b>HEX:</b> #00558B</td>
+    <td valign="top"><b>PMS:</b> 178C<br><b>CMYK:</b> 0.80.60.0<br><b>RGB:</b> 255.89.89<br><b>HEX:</b> #FF5959</td>
+    <td valign="top"><b>PMS:</b> 1355C<br><b>CMYK:</b> 0.24.66.0<br><b>RGB:</b> 255.197.108<br><b>HEX:</b> #FFC56C</td>
+    <td valign="top"><b>PMS:</b> 157C<br><b>CMYK:</b> 0.47.70.0<br><b>RGB:</b> 255.156.90<br><b>HEX:</b> #FF9C5A</td>
   </tr>
 </table>
 
