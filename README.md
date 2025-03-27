@@ -6,11 +6,11 @@
 
 <table>
   <tr>
-    <td style="background-color:#6DC6E7; width:100px; height:100px;"></td>
-    <td style="background-color:#00558B; width:100px; height:100px;"></td>
-    <td style="background-color:#FF5959; width:100px; height:100px;"></td>
-    <td style="background-color:#FFC56C; width:100px; height:100px;"></td>
-    <td style="background-color:#FF9C5A; width:100px; height:100px;"></td>
+    <td><img src="https://placehold.co/100x100/6DC6E7/6DC6E7.png"/></td>
+    <td><img src="https://placehold.co/100x100/00558B/00558B.png"/></td>
+    <td><img src="https://placehold.co/100x100/FF5959/FF5959.png"/></td>
+    <td><img src="https://placehold.co/100x100/FFC56C/FFC56C.png"/></td>
+    <td><img src="https://placehold.co/100x100/FF9C5A/FF9C5A.png"/></td>
   </tr>
   <tr>
     <td valign="top"><b>PMS:</b> 297C<br><b>CMYK:</b> 52.3.4.0<br><b>RGB:</b> 109.198.231<br><b>HEX:</b> #6DC6E7</td>
